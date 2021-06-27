@@ -31,5 +31,8 @@
 		"dependencies": [
 			"@sap/ux-ui5-tooling"
 		]
+	},
+	"dependencies": {
+		"yeoman-generator": "^5.3.0"
 	}
 }
